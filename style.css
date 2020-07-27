@@ -1,0 +1,18 @@
+body{
+    background-color: #7638C2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: #492378;
+}
+
+.wrapper{
+    width:600px;
+    height:600px;
+    background-color:#fff;
+    display: flex;
+    align-items: center;
+    margin: 50px auto;
+    text-align: ;
+    padding-left: 35px;
+    border-radius: 340px;
+}
